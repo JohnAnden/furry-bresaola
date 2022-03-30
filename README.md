@@ -6,3 +6,4 @@ Where something may happen
 - make your changes
 - submit a pull request
 - It's important to have a conversation when opeing a pull request. Describe your change and why it should be accepted.   
+Try to say it with pleasure!
